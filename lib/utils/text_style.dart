@@ -1,5 +1,5 @@
+import 'package:charmai/utils/app_colors.dart';
 import 'package:flutter/material.dart';
-import 'package:rizz/utils/app_colors.dart';
 
 const paragraphRegularTextStyle = TextStyle(
   fontSize: 18,

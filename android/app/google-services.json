@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "301521655323",
+    "project_id": "plantake-charmai",
+    "storage_bucket": "plantake-charmai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301521655323:android:c6c5e1296afaa0b3f90abe",
+        "android_client_info": {
+          "package_name": "com.example.rizz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7lFi4p_lLG-fgo_eRldT-UNChRYcTbiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
